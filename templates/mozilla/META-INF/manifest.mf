@@ -1,0 +1,92 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: AfaxrO67jo8gGNI3XH4s2A==
+SHA1-Digest: xMv7hg5z7ML0VZbHAWX5OYFBvos=
+SHA256-Digest: qQTmc5NGyTuMAObutmgXEWonN3kUhSQXrUVOCcGf104=
+
+Name: install.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: NaM3np8CAZmFXPxLn7TW7A==
+SHA1-Digest: lOCAmigDWIojQeb1Unzz7A8FCMo=
+SHA256-Digest: LsoqOjJ5YhKiAS0xb9mNjjx/rnLqATjeHi7a4exLo4o=
+
+Name: dictionaries/changelog.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: rwqMC6k0Vce0L0J+9G/BGA==
+SHA1-Digest: nCprd1d0BhW9L84VnBhpwmBlCIc=
+SHA256-Digest: zbO1z4rN8HqIAk52u63NYxONayq5chaxVKIXh56Swss=
+
+Name: dictionaries/documentacion.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 7AJk5v04nPFSESJBOGP9jw==
+SHA1-Digest: x3EHTY5A5CHWhawrgSA+xCgL1Gc=
+SHA256-Digest: VlzdEuWisu8B5iPyTG9069dEbW00GtPD6iY2r/7p5LQ=
+
+Name: dictionaries/gl_ES.aff
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: CracTVIbGofQcMfU/3mZcA==
+SHA1-Digest: 0LDat9nchnQ+2RM5UQkhrhswaec=
+SHA256-Digest: 4qvEEiVIxfnpFPu7y+utNIaxSSrDUv73K5W+k+MqBhc=
+
+Name: dictionaries/gl_ES.dic
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: oHEqRtTFxIp5PVF+KS7Row==
+SHA1-Digest: uduo+hj3I3k6sYLz5P+qKkimgDw=
+SHA256-Digest: yl+Nc1oTIlwdq6sELdrIxY/V6CD/uoB7qAJND6CmgXA=
+
+Name: dictionaries/install-gl.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: buPPMrxald3Gn9Z3xUvPqw==
+SHA1-Digest: lr2z4FwlVlkQSlabk8LoQbzqyKU=
+SHA256-Digest: MM9cGVgGJbmuFwzv24jCyk0dZlMNiOAq8mbwLFmedw0=
+
+Name: dictionaries/install.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: +W8ZA7iF6g+aoOXcUyI4AA==
+SHA1-Digest: N0+EuMpyPqPiw6kl94b4IwYbbEM=
+SHA256-Digest: 1ONkJoERdtzA4/hLB1eqsl8XcBZ1D6ZSzi5hvs/+tHI=
+
+Name: dictionaries/license-gl.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: HN3Y4iBjF3Xj2sMpHi6Gbw==
+SHA1-Digest: 1/+27gEyMbtY/IaDv4VVtjmB1Cc=
+SHA256-Digest: KsrbEH3u/InGigTKf7TAL5EOLdl9hgbBRiQfTFHy740=
+
+Name: dictionaries/license.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: T+hp7ph6NAGY+w1UxVxH8Q==
+SHA1-Digest: Hee6y0+717bTkaaav+F0wlCewwM=
+SHA256-Digest: xTplwv1WHIfqq/EHLvXcq4ZTBCvBUwhGX1JBNYXrYnE=
+
+Name: dictionaries/log.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: z9EPSueesQUrPSPZs2F42A==
+SHA1-Digest: MVSHIx3D94AKbT1cMr6DRWjop7k=
+SHA256-Digest: OnqrWaIRR3YOusCJrbuq5ImRGeBBew4Wkm0Qt8gUCNA=
+
+Name: dictionaries/readme-gl.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 7zja/LezSV3xcBpqNXKuFw==
+SHA1-Digest: uWGYDvJRI/PPhUskvJSodfESDY4=
+SHA256-Digest: /wEPNuQ6K6pThK3JUb8/dziLNiVcWm9xJ8kXCg8+GKY=
+
+Name: dictionaries/readme.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: HfjUDVhv4rgn+USr2qcZDQ==
+SHA1-Digest: Sc53luHC1ILqs0VD2gZnw04yVvU=
+SHA256-Digest: Xtq9zyrEbFvqxopoUWXL1i7jHc3vFMOD3LQfEoNb2ok=
+
+Name: dictionaries/readme_xpi_packers.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 327bcnP4RSGSWdojU4kdWg==
+SHA1-Digest: 9rWLskHi5afatbngeGoNx3ccH4Y=
+SHA256-Digest: ZhhlyGK0eAgdbuKxoWD/30Fpm0su7S7dMM5kaq9OEzg=
+
+Name: dictionaries/versions.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: zNKkAwDpllQxgMrFIXlnxw==
+SHA1-Digest: P9gQlLXunS8U7/JmzrZsD912NSM=
+SHA256-Digest: vrnFNgWb9Er6n9lPXx3/aPhC2440wXuaFj3O1oXIUDY=
+

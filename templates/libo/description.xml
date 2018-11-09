@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <version value="__VERSION__" />
+    <identifier value="galician.gl.dicts.from.Trasno" />
+
+    <display-name>
+        <name lang="gl">Corrector ortográfico de galego</name>
+    </display-name>
+
+    <platform value="all" />
+
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+
+    <icon>
+        <default xlink:href="ProxectoTrasno.png" />
+    </icon>
+
+    <publisher>
+        <name xlink:href="http://www.trasno.gal/corrector-de-galego-hunspell/" lang="gl">Corrector hunspell de Proxecto Trasno</name>
+    </publisher>
+
+</description>

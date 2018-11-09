@@ -1,0 +1,8 @@
+O corrector con tecnoloxía hunspell de Trasno habilita a corrección ortográfica, guionización e sinónimos en idioma galego.
+
+Edición «__EDITION__»
+
+(c) Proxecto Trasno
+Proxecto Trasno agradece as colaboracións da comunidade.
+Para notificar erros ou suxerir novas entradas prema na ligazón arriba á dereita.
+
